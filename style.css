@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css?family=Copse');
+
+/* Move down content because we have a fixed navbar that is 3.5rem tall */
+@import url('https://fonts.googleapis.com/css?family=Copse');
+body {
+  padding-top: 3.5rem;
+  font-family: 'Copse', serif;
+  padding-top: 80px;
+  background:#ffe266;
+  font-weight: 400;
+}
+
+.bg-cor{
+  background:#ffe266;
+}
+.bg-pink{
+  background:#ff9f9f;
+}
+
+
+h1,h2,h3,h4,h5,h6{
+  font-weight: 700;
+}
+
+img{
+  border: 8px solid white;
+  box-shadow: 0 0 5px rgba(0,0,0,.5);
+
+}
